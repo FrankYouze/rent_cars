@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "838115257641",
+    "firebase_url": "https://carrentaldb-e1bf9-default-rtdb.firebaseio.com",
+    "project_id": "carrentaldb-e1bf9",
+    "storage_bucket": "carrentaldb-e1bf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838115257641:android:fc457de6f121ddf4c31b38",
+        "android_client_info": {
+          "package_name": "com.example.rent_cars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ZziTqJ0-30GK69tpzIDoh9sj1q-E67k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
